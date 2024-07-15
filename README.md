@@ -38,7 +38,7 @@ Here is a list of my experience from real-world programming projects:
 - [Tickets@Purdue](https://github.com/LofiTea/TicketsAtPurdue): A Java project that simulates a ticket marketplace.
 - [Wikimedia Mismatches](https://github.com/LofiTea/Wikidata-Mismatches): My Spring 2024 Data Mine research project.
 - [JMPC Forage SWE Task](https://github.com/LofiTea/forage-jpmc-swe-task-1): A virtual job simulation done with JP Morgan
-- [Stratolaunch]():My Fall 2024 Data Mine research project. Coming soon...
+- [Stratolaunch](): My Fall 2024 Data Mine research project. Coming soon...
 
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
