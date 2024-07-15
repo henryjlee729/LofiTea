@@ -31,7 +31,7 @@ Here is a list of my personal projects:
 - [LofiTea Text Editor](https://github.com/LofiTea/lofitea-text-editor): A text editor built from 1,000 lines of C code.
 
 <!-- My Research -->
-## 🚀 Experience Projects
+## 🔨 Experience Projects
 
 Here is a list of my experience from real-world programming projects:
 
