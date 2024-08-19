@@ -1,13 +1,13 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
-![Header](/images/LT_Friends.jpg)
+![Header](LT_Friends.jpg)
 
 I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also the best way to people understand ideas and the process to tackle real-world projects.
 
 <!-- About Me -->
 ## 🧐 About Me
 
-- 👨‍🎓 Pursuring a Bachelor of Science in Computer Science at Purdue University
+- 👨‍🎓 Pursuing a Bachelor of Science in Computer Science at Purdue University
 - 💡 Constantly searching and conducting creative projects
 - 📓 Currently exploring software engineering, artificial intelligence, operating systems, and interpreters
 - 🌐 Have experience in software development
