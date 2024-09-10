@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
-![Header](LT_Friends.jpg)
+![Header](hanbok.jpg)
 
 I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also the best way to people understand ideas and the process to tackle real-world projects.
 
