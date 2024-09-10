@@ -1,8 +1,8 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
-<div style="text-align: center;">
+<p align="center" width="100%">
     <img src="hanbok.jpg" alt="Header" width="250"/>
-</div>
+</p>
 
 I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also the best way to people understand ideas and the process to tackle real-world projects.
 
@@ -11,7 +11,7 @@ I'm a storyteller. Storytelling means communicating ideas, solving issues, and s
 
 - 👨‍🎓 Pursuing a Bachelor of Science in Computer Science at Purdue University
 - 💡 Constantly searching and conducting creative projects
-- 📓 Currently exploring software engineering, artificial intelligence, operating systems, and interpreters
+- 📓 Currently exploring software engineering, artificial intelligence, and computer engineering
 - 🌐 Have experience in software development
 
 <!-- Skills -->
@@ -39,7 +39,7 @@ Here is a list of my personal projects:
 Here is a list of my experience from real-world programming projects:
 
 - [Tickets@Purdue](https://github.com/LofiTea/TicketsAtPurdue): A Java project that simulates a ticket marketplace.
-- [Wikimedia Mismatches](https://github.com/LofiTea/Wikidata-Mismatches): My Spring 2024 Data Mine research project.
+- [Wikimedia](https://github.com/LofiTea/Wikidata-Mismatches): My Spring 2024 Data Mine research project.
 - [JMPC Forage SWE Task](https://github.com/LofiTea/forage-jpmc-swe-task-1): A virtual job simulation done with JP Morgan
 - [Concrete Engine](): My Fall 2024 Data Mine research project. Coming soon...
 
