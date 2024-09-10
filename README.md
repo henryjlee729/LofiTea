@@ -4,7 +4,7 @@
     <img src="hanbok.png" alt="Header" width="250"/>
 </p>
 
-I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also the best way to people understand ideas and the process to tackle real-world projects.
+I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also a good way to break down complex issues and generate solutions to tackle real-world projects.
 
 <!-- About Me -->
 ## 🧐 About Me
@@ -40,7 +40,7 @@ Here is a list of my experience from real-world programming projects:
 
 - [Tickets@Purdue](https://github.com/LofiTea/TicketsAtPurdue): A Java project that simulates a ticket marketplace.
 - [Wikimedia](https://github.com/LofiTea/Wikidata-Mismatches): My Spring 2024 Data Mine research project.
-- [JMPC Forage SWE Task](https://github.com/LofiTea/forage-jpmc-swe-task-1): A virtual job simulation done with JP Morgan
+- [JMPC Forage SWE Task](https://github.com/LofiTea/forage-jpmc-swe-task-1): A virtual job simulation done with JP Morgan on Forage.
 - [Concrete Engine](): My Fall 2024 Data Mine research project. Coming soon...
 
 <!-- Let's Connect -->
@@ -53,4 +53,4 @@ Here is a list of my experience from real-world programming projects:
 <!-- Footer -->
 ## Thank You for Visiting!
 
-Thank you for stopping by and getting to know me a little better. Let's build things together! 🚀
+Thank you for stopping!  I hope I can work with you in the future! 🚀
