@@ -1,7 +1,7 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
 <p align="center" width="100%">
-    <img src="hanbok.jpg" alt="Header" width="250"/>
+    <img src="hanbok.png" alt="Header" width="250"/>
 </p>
 
 I'm a storyteller. Storytelling means communicating ideas, solving issues, and structuring information and insights. Storytelling is also the best way to people understand ideas and the process to tackle real-world projects.
