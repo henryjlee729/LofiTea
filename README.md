@@ -31,7 +31,7 @@ Here is a list of my personal projects:
 
 - [A.U.R.O.R.A.](https://github.com/LofiTea/A.U.R.O.R.A.): A discord bot template built from Python.
 - [LofiTea Text Editor](https://github.com/LofiTea/lofitea-text-editor): A text editor built from 1,000 lines of C code.
-- [Beanie Clock](https://github.com/LofiTea/beanie-pomodoro): A pomodoro web extension (STILL IN DEVELOPMENT)
+- [Beanie Pomodoro](https://github.com/LofiTea/beanie-pomodoro): A pomodoro web extension (STILL IN DEVELOPMENT)
 
 <!-- My Research -->
 ## 🔨 Experience Projects
