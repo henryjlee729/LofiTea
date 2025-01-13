@@ -45,8 +45,8 @@ Here is a list of my experience from real-world programming projects:
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 
-- 📫 Email me [Here](iwilldiscoveraurora@gmail.com)
-- 💬 Connect on [LinkedIn](www.linkedin.com/in/lofitea)
+- 📫 Email me [Here](https://iwilldiscoveraurora@gmail.com)
+- 💬 Connect on [LinkedIn](https://www.linkedin.com/in/lofitea)
 - ❤️ My Portfolio [Visit](https://lofitea-portfolio.vercel.app/)
 
 <!-- Footer -->
