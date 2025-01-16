@@ -1,7 +1,7 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
 <p align="center" width="100%">
-    <img src="hanbok.png" alt="Header" width="250"/>
+    <img src="hi.jpg" alt="Header" width="250"/>
 </p>
 
 I'm a storyteller. I communicate ideas, solve issues, and structure information and insights. It is also a good way to break down complex issues and generate solutions to tackle real-world projects.
@@ -31,7 +31,7 @@ Here is a list of my personal projects:
 
 - [A.U.R.O.R.A.](https://github.com/LofiTea/A.U.R.O.R.A.): A discord bot template built from Python.
 - [LofiTea Text Editor](https://github.com/LofiTea/lofitea-text-editor): A text editor built from 1,000 lines of C code.
-- [Beanie Pomodoro](https://github.com/LofiTea/beanie-pomodoro): A pomodoro web extension (STILL IN DEVELOPMENT)
+- [Beanie Pomodoro](https://github.com/LofiTea/beanie-pomodoro): A pomodoro web extension (Beta build now finished)
 
 <!-- My Research -->
 ## 🔨 Experience Projects
