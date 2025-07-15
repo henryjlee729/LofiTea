@@ -1,7 +1,7 @@
 <!-- Header -->
 # 👋 Hello! I'm Henry Lee!
 <p align="center" width="100%">
-    <img src="hi.gif" alt="Header" width="250"/>
+    <img src="poyo.gif" alt="Header" width="250"/>
 </p>
 
 I'm a storyteller. I communicate ideas, solve issues, and structure information and insights. It is also a good way to break down complex issues and generate solutions to tackle real-world projects.
