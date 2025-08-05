@@ -4,13 +4,12 @@
     <img src="poyo.gif" alt="Header" width="250"/>
 </p>
 
-I’m a storyteller who writes code—breaking down complex problems, structuring insights, and building clear, human-centered solutions. I use narrative thinking to make software intuitive, impactful, and purpose-driven.
+I’m a storyteller who writes code—breaking down complex problems, structuring insights, and building clear, human-centered solutions. I use narrative thinking to solve problems and to leave an impact.
 
 <!-- About Me -->
 ## 🧐 About Me
 
 - 👨‍🎓 Pursuing a Bachelor of Science in Computer Science at Purdue University with a minor in Mathematics
-- 💡 Constantly liking to use creativity to solve problems
 - 📓 Currently exploring software engineering and artificial intelligence
 - 🌐 Have experience in web development, databases, and game development
 
@@ -19,7 +18,7 @@ I’m a storyteller who writes code—breaking down complex problems, structurin
 
 - **Programming Languages**: C, C++, Python, Java, C#, Rust
 - **Web Development**: HTML, CSS, JS, React, Bootstrap, Flask
-- **Data Science**: Numpy, Pandas, Tensorflow, Matplotlib, Scikit-Learn, MATLAB
+- **Data Science**: Numpy, Pandas, Matplotlib, Scikit-Learn, MATLAB
 - ![Language](https://img.shields.io/badge/language-Python-blue)
 - ![Language](https://img.shields.io/badge/language-C-blue)
 - ![Language](https://img.shields.io/badge/language-Java-blue)
@@ -40,14 +39,14 @@ Here is a list of my experience from real-world programming projects:
 
 - [Tickets@Purdue](https://github.com/henryjlee729/TicketsAtPurdue): A Java project that simulates a ticket marketplace.
 - [Wikimedia](https://github.com/henryjlee729/Wikidata-Mismatches): My Spring 2024 Data Mine research project.
-- [JMPC Forage SWE Task](https://github.com/henryjlee729/forage-jpmc-swe-task-1): A virtual job simulation done with JP Morgan on Forage.
+- [Leadership Dashboard](https://github.com/henryjlee729/leadership-dashboard): A Python application that appends CSV and Excel sheets for the output to organize financial information.
 
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 
 - 📫 Email me [Here](https://iwilldiscoveraurora@gmail.com)
 - 💬 Connect on [LinkedIn](https://www.linkedin.com/in/henryjlee729)
-- ❤️ My Portfolio [Visit](https://lofitea-portfolio.vercel.app/)
+- ❤️ My Portfolio [Visit](https://henryjlee.vercel.app/)
 
 <!-- Footer -->
 ## Thank You for Visiting!
